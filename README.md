@@ -58,8 +58,8 @@ crontab -e
 1. The script logs RAM usage every hour using the free -m command.
 2. Each log entry includes a timestamp and the used/total memory in MB.
 3. At midnight (HOUR == 00), the script:
-  - Sends the log file content via email to the configured recipient.
-  - Clears the log file for the next day.
+    - Sends the log file content via email to the configured recipient.
+    - Clears the log file for the next day.
 4. Error handling ensures the script exits immediately if any command fails.
 
 **Author:** Agbabiaka Owolabi.
