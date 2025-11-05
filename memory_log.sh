@@ -3,7 +3,10 @@
 
 #DATE=`date`
 #date2=$(date) #---this also is another way
-
+# Automated Website Deployment on AWS EC2
+##Author: Agbabiaka Owolabi  
+##Role: Cloud & DevOps Engineer | Frontend Developer  
+##Date:August 2025
 set -e #EXIT IMMEDIATELY IF THERE'S ANY ERROR OF ANY LINES
 
 
