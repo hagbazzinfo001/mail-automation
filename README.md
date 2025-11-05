@@ -62,5 +62,6 @@ crontab -e
   - Clears the log file for the next day.
 4. Error handling ensures the script exits immediately if any command fails.
 
-**Author:** Agbabiaka Owolabi
+**Author:** Agbabiaka Owolabi.
+
 **Email:** Agbabiakahammed003@gmail.com
